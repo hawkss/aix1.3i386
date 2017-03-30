@@ -7,6 +7,8 @@ aix1.3i386 virtualbox test image
 
 
 #step3  booting
+        
+        
         1. floppy diskette insert     :01atboot1.img
         
         2. start virtual box guest os :AIX1.3i386 start
