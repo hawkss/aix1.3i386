@@ -1,7 +1,7 @@
 # aix1.3i386
 aix1.3i386 virtualbox test image [host os : linux , windows , macos, solaris]
 
-#step1  virtualbox install
+#step1  virtualbox install  https://www.virtualbox.org/wiki/Downloads
 
 #step2  aix.ovf import
 
