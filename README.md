@@ -1,5 +1,5 @@
 # aix1.3i386
-aix1.3i386 virtualbox test image
+aix1.3i386 virtualbox test image [host os : linux , windows , macos]
 
 #step1  virtualbox install
 
