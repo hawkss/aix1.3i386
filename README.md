@@ -1,5 +1,6 @@
 [aix]        1.3
-             file list  aix.ovf, 01atboot01.img, 02atboot02.img
+            
+             aix.ovf, 01atboot01.img, 02atboot02.img
 
 [virtualbox] 5.1.16 stable version
              
