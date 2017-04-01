@@ -4,7 +4,7 @@
 
 [virtualbox] 5.1.16 
              
-             5.x.x  stable version
+             5.1.x  stable version
              4.x.x  OMG  ㅠㅠ
              
 
