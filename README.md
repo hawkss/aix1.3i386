@@ -1,6 +1,8 @@
-# aix1.3i386
-aix1.3i386 : virtualbox 5.1.16 test image 
+[aix]        1.3
+             file list  aix.ovf, 01atboot01.img, 02atboot02.img
 
+[virtualbox] 5.1.16 stable version
+             
 
 [host os ] 
 
@@ -11,7 +13,7 @@ aix1.3i386 : virtualbox 5.1.16 test image
            macos-10.12.3       ok
 
 
-#step1  virtualbox install  https://www.virtualbox.org/wiki/Downloads
+#step1  virtualbox 5.1.16  install  https://www.virtualbox.org/wiki/Downloads
 
 #step2  aix.ovf import
 
