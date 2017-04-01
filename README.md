@@ -10,13 +10,13 @@
 
 [host os ] 
 
-           linux centos6.8     ok  
-                 ubuntu 14.04  testing
+           linux centos6.8     <ok> 
+                 ubuntu 14.04  <testing>
 
-           windows xp ~ 10     ok  all  passed
+           windows xp ~ 10     <ok>  all  passed
            
-           macos 10.12.3       ok  
-           snow leopard 10.6.8 testing
+           macos 10.12.3       <ok>  
+           snow leopard 10.6.8 <testing>
 
 
 #step1  virtualbox 5.1.16  install  https://www.virtualbox.org/wiki/Downloads
