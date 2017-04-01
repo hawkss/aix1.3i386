@@ -2,7 +2,10 @@
             
              aix.ovf, 01atboot01.img, 02atboot02.img
 
-[virtualbox] 5.1.16 stable version
+[virtualbox] 5.1.16 
+             
+             5.x.x  stable version
+             4.x.x  OMG  ㅠㅠ
              
 
 [host os ] 
